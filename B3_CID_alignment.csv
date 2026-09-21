@@ -1,0 +1,11 @@
+odorset,code,molecule,CID,oMNIST_directory
+1,CPAcd,Cyclopentanecarboxylic Acid,18840,cyclopentane_carboxylic_acid
+1,2Hep,2-Heptanone,8051,2_heptanone
+1,IBAcd,Isobutyric acid,6590,isobutyric_acid
+2,ButAcd,Butyric acid,264,butyric_acid
+2,BzAld,Benzaldehyde,240,benzaldehyde
+2,5M2H,5-Methyl-2-Hexanone,8034,5_methyl_2_hexanone
+2,PPA,Propionic acid,1032,propionic_acid
+3,ValAcd,Valeric acid,7991,valeric_acid
+3,3MVAcd,3-Methylvaleric acid,7755,3_methylvalericacid
+3,33DMBAcd,"3,3-Dimethylbutyric acid",14057,33_dimethylbutyricacid
