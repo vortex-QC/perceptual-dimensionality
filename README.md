@@ -13,6 +13,7 @@ Author: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-2000-5
 | `fig1_budget_direction_split.png` | Direction split across all pre-registered budget panels (whole-brain vs OB row-specific) |
 | `fig2_timecourse_null.png` | Response-timecourse null (10 windows, max-peak corrected)
 | `fig3_rank_scatter.png` | Rank-scatter, dual budget panels (OB row-specific n=6 / whole-brain n=8) |
+| `fig3_rank_scatter.py` | Reproduction script for fig3 (values locked by preregistration v0.2; assertions pin ρ=+0.486/−0.143 and the n=6 main-set filter) |
 | `preregistration_v0.1_mantel.md` | Adjudication preregistration v0.1 (locked before results) |
 | `preregistration_v0.2_crossspecies.md` | Cross-species preregistration v0.2 (row-specific budget proxy) |
 | `preregistration_v0.3_CID_alignment.md` | v0.3 correction + response-timecourse preregistration (CID-level alignment table locked) |
