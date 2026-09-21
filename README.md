@@ -9,7 +9,8 @@ Author: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-2000-5
 
 | File | Content |
 |---|---|
-| `perceptual_dimensionality_CN_v1.0.md` | Main document (Chinese): budget line (cross-species rank regressions) + readout line (pre-registered adjudication chain) + τ(T,ε,C) framework |
+| `perceptual_dimensionality_CN_v1.1.md` | Main document v1.1 (Chinese): budget line + four-step readout adjudication chain (incl. v0.4 glomerular-granularity upgrade) + τ(T,ε,C) framework |
+| `perceptual_dimensionality_EN_v1.1.md` | English version v1.1 (full translation of CN v1.1) |
 | `fig1_budget_direction_split.png` | Direction split across all pre-registered budget panels (whole-brain vs OB row-specific) |
 | `fig2_timecourse_null.png` | Response-timecourse null (10 windows, max-peak corrected)
 | `fig3_rank_scatter.png` | Rank-scatter, dual budget panels (OB row-specific n=6 / whole-brain n=8) |
@@ -17,8 +18,11 @@ Author: Chao Qin (ORCID [0009-0006-2000-5644](https://orcid.org/0009-0006-2000-5
 | `preregistration_v0.1_mantel.md` | Adjudication preregistration v0.1 (locked before results) |
 | `preregistration_v0.2_crossspecies.md` | Cross-species preregistration v0.2 (row-specific budget proxy) |
 | `preregistration_v0.3_CID_alignment.md` | v0.3 correction + response-timecourse preregistration (CID-level alignment table locked) |
+| `preregistration_v0.4_glomeruli.md` | v0.4 glomerular-granularity preregistration (single variable = encoding granularity; parameters locked; bidirectional interpretation pre-registered) |
 | `stimulus_alignment_v0.2.md` | Stimulus alignment ledger (CID-verified) |
 | `B3_CID_alignment.csv` | CID-level alignment table (10 molecules × 3 odorsets) |
+
+> **v1.1** (2026-09-21): readout line extended with the v0.4 glomerular-granularity adjudication (merged ρ +0.043→+0.193, cross-animal reliability +0.564→+0.732, intermediate band under locked criteria); fig3 + reproduction script; fourth preregistration file; English version added. Same DOI (Zenodo version chain).
 
 ## Two falsification chains, fully pre-registered
 
